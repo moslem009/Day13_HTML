@@ -1,0 +1,40 @@
+<p></p>
+ctrl+r - reload
+<b></b> or <strong></strong>
+heading <h1> to <h6>
+
+tag attribute
+anchor <a href="https://www.google.com"> Go to Google </a>
+text , image and video
+<img src="imsges/friends/pic.jpg" alt=""></img>
+Online Image
+local Image
+folder image
+
+List
+Ordered List
+List Item
+<ol>
+   <li>Apple</li>
+</ol>
+
+<ul>
+   <li>Apple</li>
+</ul>
+
+type in google : html tags
+<button>Click Me </button>
+<input type="text" />  
+<span style="">
+<div>  </div>  
+<section> </section>
+
+HTML Structure
+---------------
+<html>
+   <head>   </head>
+   <body>
+
+   </body>
+</html>
+! Tab
